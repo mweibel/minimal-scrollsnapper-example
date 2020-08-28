@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# deploy key
+.gh-pages-actions-key
+.gh-pages-actions-key.pub
